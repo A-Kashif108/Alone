@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "379341185745",
+    "project_id": "alone-f355f",
+    "storage_bucket": "alone-f355f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379341185745:android:02e9956f9053f627de5bf0",
+        "android_client_info": {
+          "package_name": "com.example.mdg_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379341185745-ttspj2fo6m9t7goamas2bi5l2gnrdsno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtMVcoySElHTmgjHgL4pVUk23QMsieA-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379341185745-ttspj2fo6m9t7goamas2bi5l2gnrdsno.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
