@@ -1,4 +1,4 @@
-# mdg_project
+# Alone
 
 A new Flutter project.
 
